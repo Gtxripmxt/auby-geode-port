@@ -12,8 +12,10 @@ project(auby VERSION 1.0.0)
 
 # Set up the mod binary
 add_library(${PROJECT_NAME} SHARED
+    include/*.cpp
     src/*.cpp
     auby2/src/*.cpp
+    src/ui/*.cpp
     # Add any extra C++ source files here
 )
 
