@@ -12,10 +12,14 @@ project(auby VERSION 1.0.0)
 
 # Set up the mod binary
 add_library(${PROJECT_NAME} SHARED
-    include/*.cpp
-    src/*.cpp
-    auby2/src/*.cpp
-    src/ui/*.cpp
+    src/main.cpp
+    src/gd_share.cpp
+    src/icon_hack.cpp
+    src/noclip.cpp
+    src/verify_hack.cpp
+    src/ui/ui.cpp
+    auby2/src/settings.cpp
+    auby2/src/cocos.cpp
     # Add any extra C++ source files here
 )
 
