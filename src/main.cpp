@@ -1,4 +1,4 @@
-#include "auby/auby.hpp"
+#include "auby2/auby.hpp"
 #include "settings.hpp"
 #include "ui/ui.hpp"
 #include <auby.hpp>
