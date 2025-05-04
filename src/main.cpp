@@ -1,7 +1,7 @@
 #include "auby2/include/auby.hpp"
 #include "auby2/src/settings.hpp"
 #include "ui/ui.hpp"
-#include <auby.hpp>
+#include "auby2/include/auby/auby.hpp"
 
 namespace {
 bool $(LoadingLayer::init)(LoadingLayer* self, bool fromReload) {
