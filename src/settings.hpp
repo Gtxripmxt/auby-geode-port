@@ -1,6 +1,6 @@
 #pragma once
 
-#include <auby/settings.hpp>
+#include "auby2/include/auby/settings.hpp"
 
 namespace settings {
 namespace level {
