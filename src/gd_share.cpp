@@ -1,4 +1,4 @@
-#include <auby.hpp>
+#include "auby2/include/auby/auby.hpp"
 
 namespace {
 bool $(LevelBrowserLayer::init)(LevelBrowserLayer* self, GJSearchObject* search) {
