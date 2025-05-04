@@ -1,5 +1,5 @@
 #include "auby2/src/settings.hpp"
-#include <auby.hpp>
+#include "auby2/include/auby/auby.hpp"
 
 namespace {
 bool $(EditLevelLayer::init)(EditLevelLayer* self, GJGameLevel* level) {
