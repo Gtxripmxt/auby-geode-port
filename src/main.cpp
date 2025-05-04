@@ -1,5 +1,5 @@
-#include "auby2/inlucde/auby.hpp"
-#include "settings.hpp"
+#include "auby2/include/auby.hpp"
+#include "auby2/src/settings.hpp"
 #include "ui/ui.hpp"
 #include <auby.hpp>
 
