@@ -1,4 +1,4 @@
-#include "auby2/auby.hpp"
+#include "auby2/inlucde/auby.hpp"
 #include "settings.hpp"
 #include "ui/ui.hpp"
 #include <auby.hpp>
