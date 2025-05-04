@@ -1,4 +1,4 @@
-#include <auby.hpp>
+#include "auby2/include/auby/auby.hpp"
 
 namespace {
 bool $(GameManager::isIconUnlocked)(void* self, int a1, int a2) {
