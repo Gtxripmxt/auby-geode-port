@@ -1,4 +1,4 @@
-#include "settings.hpp"
+#include "auby2/src/settings.hpp"
 #include <auby.hpp>
 
 namespace {
